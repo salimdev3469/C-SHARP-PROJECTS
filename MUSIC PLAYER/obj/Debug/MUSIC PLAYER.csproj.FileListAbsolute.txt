@@ -1,0 +1,20 @@
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\bin\Debug\MUSIC PLAYER.exe.config
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\bin\Debug\MUSIC PLAYER.exe
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\bin\Debug\MUSIC PLAYER.pdb
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\bin\Debug\Interop.WMPLib.dll
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.csproj.AssemblyReference.cache
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.csproj.SuggestedBindingRedirects.cache
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\Interop.WMPLib.dll
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.csproj.ResolveComReference.cache
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC_PLAYER.Form1.resources
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC_PLAYER.Properties.Resources.resources
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.csproj.GenerateResource.cache
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.csproj.CoreCompileInputs.cache
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.exe
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.pdb
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\bin\Debug\MUSIC PLAYER.exe.manifest
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\bin\Debug\MUSIC PLAYER.application
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.exe.manifest
+C:\Users\SalimSerhatAKA\source\repos\MUSIC PLAYER\obj\Debug\MUSIC PLAYER.application
