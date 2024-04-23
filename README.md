@@ -9,4 +9,8 @@
 ![image](https://github.com/salimdev3469/C-SHARP-PROJECTS/assets/157348323/582ff08b-ca13-4bce-bcc7-cb42ed634e1d)
 ![image](https://github.com/salimdev3469/C-SHARP-PROJECTS/assets/157348323/b52bfc39-2c92-472f-adf4-80e606c6aa37)
 
+ 3-MUSIC PLAYER
+ ![musply](https://github.com/salimdev3469/C-SHARP-PROJECTS/assets/157348323/3868cb99-309e-439a-9f54-63ebcbc969ca)
+
+
 
