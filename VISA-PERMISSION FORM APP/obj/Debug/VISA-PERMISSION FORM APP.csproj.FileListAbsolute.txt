@@ -1,0 +1,11 @@
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\obj\Debug\VISA-PERMISSION FORM APP.csproj.AssemblyReference.cache
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\obj\Debug\VISA-PERMISSION FORM APP.csproj.SuggestedBindingRedirects.cache
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\obj\Debug\VISA_PERMISSION_FORM_APP.Form1.resources
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\obj\Debug\VISA_PERMISSION_FORM_APP.Properties.Resources.resources
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\obj\Debug\VISA-PERMISSION FORM APP.csproj.GenerateResource.cache
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\obj\Debug\VISA-PERMISSION FORM APP.csproj.CoreCompileInputs.cache
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\bin\Debug\VISA-PERMISSION FORM APP.exe.config
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\bin\Debug\VISA-PERMISSION FORM APP.exe
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\bin\Debug\VISA-PERMISSION FORM APP.pdb
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\obj\Debug\VISA-PERMISSION FORM APP.exe
+C:\Users\SalimSerhatAKA\source\repos\VISA-PERMISSION FORM APP\obj\Debug\VISA-PERMISSION FORM APP.pdb
