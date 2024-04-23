@@ -1,0 +1,11 @@
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\bin\Debug\BANK ACCOUNT SYSTEM.exe.config
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\bin\Debug\BANK ACCOUNT SYSTEM.exe
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\bin\Debug\BANK ACCOUNT SYSTEM.pdb
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\obj\Debug\BANK ACCOUNT SYSTEM.csproj.AssemblyReference.cache
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\obj\Debug\BANK ACCOUNT SYSTEM.csproj.SuggestedBindingRedirects.cache
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\obj\Debug\BANK_ACCOUNT_SYSTEM.Properties.Resources.resources
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\obj\Debug\BANK ACCOUNT SYSTEM.csproj.GenerateResource.cache
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\obj\Debug\BANK ACCOUNT SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\obj\Debug\BANK ACCOUNT SYSTEM.exe
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\obj\Debug\BANK ACCOUNT SYSTEM.pdb
+C:\Users\SalimSerhatAKA\source\repos\BANK ACCOUNT SYSTEM\obj\Debug\BANK_ACCOUNT_SYSTEM.Form1ANJ.resources
