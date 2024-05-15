@@ -1,0 +1,16 @@
+C:\Users\SalimSerhatAKA\source\repos\Labirent\bin\Debug\Labirent.exe.config
+C:\Users\SalimSerhatAKA\source\repos\Labirent\bin\Debug\Labirent.exe
+C:\Users\SalimSerhatAKA\source\repos\Labirent\bin\Debug\Labirent.pdb
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.csproj.AssemblyReference.cache
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.csproj.SuggestedBindingRedirects.cache
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.Labirent.resources
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.Properties.Resources.resources
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.csproj.GenerateResource.cache
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.exe
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.pdb
+C:\Users\SalimSerhatAKA\source\repos\Labirent\bin\Debug\Interop.WMPLib.dll
+C:\Users\SalimSerhatAKA\source\repos\Labirent\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Interop.WMPLib.dll
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SalimSerhatAKA\source\repos\Labirent\obj\Debug\Labirent.csproj.ResolveComReference.cache
